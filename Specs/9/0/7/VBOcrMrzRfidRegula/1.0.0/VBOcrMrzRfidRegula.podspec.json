@@ -25,10 +25,10 @@
   ],
   "dependencies": {
     "DocumentReader": [
-      "~>  7.4.0"
+      "~>  7.5.0"
     ],
     "DocumentReaderOCRRFID": [
-      "~> 7.4.0"
+      "~> 7.5.0"
     ]
   },
   "swift_version": "5"
