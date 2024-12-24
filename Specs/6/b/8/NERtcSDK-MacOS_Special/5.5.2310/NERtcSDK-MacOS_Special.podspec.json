@@ -9,7 +9,7 @@
   },
   "authors": "Netease RTC Team",
   "source": {
-    "http": "http://yx-web.nos.netease.com/package/1733290385/NERTC_Special_MacOS_SDK_V5.5.2310.zip"
+    "http": "http://yx-web.nos.netease.com/package/1734588491/NERTC_Special_MacOS_SDK_V5.5.2310.zip"
   },
   "platforms": {
     "osx": "10.9"
@@ -35,51 +35,51 @@
   "subspecs": [
     {
       "name": "RtcBasic",
-      "vendored_frameworks": "sdk/nertc_sdk_Mac.framework"
+      "vendored_frameworks": "sdk/nertc_sdk_Mac.xcframework"
     },
     {
       "name": "Nenn",
-      "vendored_frameworks": "sdk/NERtcnn.framework"
+      "vendored_frameworks": "sdk/NERtcnn.xcframework"
     },
     {
       "name": "Beauty",
-      "vendored_frameworks": "sdk/NERtcBeauty.framework"
+      "vendored_frameworks": "sdk/NERtcBeauty.xcframework"
     },
     {
       "name": "FaceDetect",
-      "vendored_frameworks": "sdk/NERtcFaceDetect.framework"
+      "vendored_frameworks": "sdk/NERtcFaceDetect.xcframework"
     },
     {
       "name": "Segment",
-      "vendored_frameworks": "sdk/NERtcPersonSegment.framework"
+      "vendored_frameworks": "sdk/NERtcPersonSegment.xcframework"
     },
     {
       "name": "AiDenoise",
-      "vendored_frameworks": "sdk/NERtcAiDenoise.framework"
+      "vendored_frameworks": "sdk/NERtcAiDenoise.xcframework"
     },
     {
       "name": "AiHowling",
-      "vendored_frameworks": "sdk/NERtcAiHowling.framework"
+      "vendored_frameworks": "sdk/NERtcAiHowling.xcframework"
     },
     {
       "name": "FaceEnhance",
-      "vendored_frameworks": "sdk/NERtcFaceEnhance.framework"
+      "vendored_frameworks": "sdk/NERtcFaceEnhance.xcframework"
     },
     {
       "name": "VideoDenoise",
-      "vendored_frameworks": "sdk/NERtcVideoDenoise.framework"
+      "vendored_frameworks": "sdk/NERtcVideoDenoise.xcframework"
     },
     {
       "name": "SuperResolution",
-      "vendored_frameworks": "sdk/NERtcSuperResolution.framework"
+      "vendored_frameworks": "sdk/NERtcSuperResolution.xcframework"
     },
     {
       "name": "SuperShareEnhance",
-      "vendored_frameworks": "sdk/NERtcScreenShareEnhance.framework"
+      "vendored_frameworks": "sdk/NERtcScreenShareEnhance.xcframework"
     },
     {
       "name": "SpatialSound",
-      "vendored_frameworks": "sdk/NERtcAudio3D.framework"
+      "vendored_frameworks": "sdk/NERtcAudio3D.xcframework"
     }
   ]
 }
