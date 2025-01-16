@@ -8,7 +8,7 @@
   },
   "homepage": "http://www.mob.com",
   "source": {
-    "http": "https://sdk-dev-ios.oss-cn-hangzhou.aliyuncs.com/files/download/flyverify/FlyVerify_For_iOS_v13.5.7.zip"
+    "http": "https://sdk-dev-ios.oss-cn-hangzhou.aliyuncs.com/files/download/flyverify/FlyVerify_For_iOS_v13.5.7_1.zip"
   },
   "platforms": {
     "ios": "8.0"
@@ -19,7 +19,7 @@
     "FlyVerify/FlyVerify.xcframework",
     "FlyVerify/PlatformSDK/Mobile/TYRZUISDK.xcframework",
     "FlyVerify/PlatformSDK/Telecom/EAccountHYSDK.framework",
-    "FlyVerify/PlatformSDK/Union/OAuth.framework"
+    "FlyVerify/PlatformSDK/Union/OAuth.xcframework"
   ],
   "resources": [
     "FlyVerify/FlyVerify.bundle",

@@ -5,10 +5,6 @@
   "swift_versions": "5.0",
   "description": "The Vouched Library allows for fast and simple verifications using an ID and Selfie.",
   "homepage": "https://github.com/vouched/vouched-ios",
-  "license": {
-    "type": "Apache 2.0",
-    "file": "LICENSE"
-  },
   "authors": {
     "Vouched": "support@vouched.id"
   },
