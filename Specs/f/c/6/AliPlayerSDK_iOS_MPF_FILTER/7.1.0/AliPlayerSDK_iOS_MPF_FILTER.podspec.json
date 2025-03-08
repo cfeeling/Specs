@@ -18,10 +18,12 @@
     "http": "https://alivc-demo-cms.alicdn.com/versionProduct/sdk/player/7.1.0/iOS/AliyunPlayerSDK.zip"
   },
   "pod_target_xcconfig": {
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64",
+    "GENERATE_INFOPLIST_FILE": "YES"
   },
   "user_target_xcconfig": {
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64",
+    "GENERATE_INFOPLIST_FILE": "YES"
   },
   "requires_arc": true,
   "subspecs": [
