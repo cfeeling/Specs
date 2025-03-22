@@ -13,9 +13,9 @@
     "ios": "11.0"
   },
   "source": {
-    "http": "https://yx-web-nosdn.netease.im/package/1670899668335/YXAlog_1.0.7.framework.zip?download=YXAlog_1.0.7.framework.zip"
+    "http": "https://yx-web-nosdn.netease.im/package/1742467122540/YXAlog_1.0.8.xcframework.zip?download=YXAlog_1.0.8.xcframework.zip"
   },
-  "vendored_frameworks": "YXAlog_iOS.framework",
+  "vendored_frameworks": "YXAlog_iOS.xcframework",
   "libraries": [
     "c++",
     "z"
