@@ -1,6 +1,6 @@
 {
   "name": "SwiftlyUI",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Swift-style declarative UIKit framework",
   "homepage": "https://github.com/CoderLineChan/SwiftlyUI",
   "license": {
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/CoderLineChan/SwiftlyUI.git",
-    "tag": "1.0.1"
+    "tag": "1.1.0"
   },
   "platforms": {
     "ios": "13.0"
@@ -21,24 +21,6 @@
     "5.0",
     "6.0"
   ],
-  "default_subspecs": "Core",
-  "subspecs": [
-    {
-      "name": "Core",
-      "source_files": "Sources/Core/**/*.swift"
-    },
-    {
-      "name": "SnapKitExt",
-      "source_files": "Sources/SnapKitExt/**/*.swift",
-      "dependencies": {
-        "SwiftlyUI/Core": [
-
-        ],
-        "SnapKit": [
-
-        ]
-      }
-    }
-  ],
+  "source_files": "SwiftlyUI/**/*.swift",
   "swift_version": "6.0"
 }
