@@ -26,9 +26,6 @@
   "dependencies": {
     "mobileid-wallet-common-sdk": [
       "1.0.0-beta.1"
-    ],
-    "WalletLibrary": [
-      "1.0.1"
     ]
   },
   "swift_version": "5"
