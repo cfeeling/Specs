@@ -1,6 +1,6 @@
 {
   "name": "DocumentReaderNightly",
-  "version": "7.6.4272",
+  "version": "7.7.4486",
   "summary": "Document Reader API framework for fast and accurate data extraction from identity documents",
   "license": {
     "type": "commercial",
@@ -11,10 +11,10 @@
     "RegulaForensics": "support@regulaforensics.com"
   },
   "source": {
-    "http": "https://pods.regulaforensics.com/Nightly/DocumentReaderNightly/7.6.4272/DocumentReaderNightly-7.6.4272.zip"
+    "http": "https://pods.regulaforensics.com/Nightly/DocumentReaderNightly/7.7.4486/DocumentReaderNightly-7.7.4486.zip"
   },
   "platforms": {
-    "ios": "12.0.0"
+    "ios": "13.0.0"
   },
   "weak_frameworks": "CoreNFC",
   "ios": {
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "RegulaCommonNightly": [
-      "7.6.983"
+      "7.7.1098"
     ]
   }
 }

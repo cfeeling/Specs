@@ -1,6 +1,6 @@
 {
   "name": "RegulaCommonNightly",
-  "version": "7.6.983",
+  "version": "7.7.1098",
   "summary": "Collection of shared code and modules for Regula solutions.",
   "license": {
     "type": "commercial",
@@ -11,10 +11,10 @@
     "RegulaForensics": "support@regulaforensics.com"
   },
   "source": {
-    "http": "https://pods.regulaforensics.com/Nightly/RegulaCommonNightly/7.6.983/RegulaCommonNightly-7.6.983.zip"
+    "http": "https://pods.regulaforensics.com/Nightly/RegulaCommonNightly/7.7.1098/RegulaCommonNightly-7.7.1098.zip"
   },
   "platforms": {
-    "ios": "12.0.0"
+    "ios": "13.0.0"
   },
   "ios": {
     "vendored_frameworks": "RegulaCommon.xcframework"
