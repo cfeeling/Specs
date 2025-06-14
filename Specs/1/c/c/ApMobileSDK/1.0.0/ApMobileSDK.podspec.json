@@ -23,10 +23,6 @@
   "readme": "https://github.com/adpushup/ApiOSSDK/blob/master/README.md",
   "swift_versions": "5.0",
   "vendored_frameworks": "Sources/ApiOSSDK/ApMobileSDK.xcframework",
-  "dependencies": {
-    "Google-Mobile-Ads-SDK": [
-
-    ]
-  },
+  "static_framework": false,
   "swift_version": "5.0"
 }
