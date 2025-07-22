@@ -3,7 +3,7 @@
   "version": "2.2.6",
   "summary": "内购库",
   "description": "内购以及验证功能库",
-  "homepage": "https://e.coding.net/szyifants/YF_IAPKit.git",
+  "homepage": "https://yifants.cn/home",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -15,16 +15,15 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://e.coding.net/szyifants/YF_IAPKit.git",
-    "tag": "2.2.6"
+    "http": "http://mvn.yifants.cn/artifactory/fineboost-ios/iap/2.2.6/YF_IAP.zip"
   },
-  "vendored_frameworks": "IAPKit.framework",
+  "vendored_frameworks": "YF_IAP/IAPKit.framework",
   "xcconfig": {
     "OTHER_LDFLAGS": "-ObjC"
   },
   "resource_bundles": {
     "YF_IAPResources": [
-      "Resources/PrivacyInfo.xcprivacy"
+      "YF_IAP/PrivacyInfo.xcprivacy"
     ]
   },
   "frameworks": "StoreKit",
