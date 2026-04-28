@@ -47,5 +47,6 @@
   "user_target_xcconfig": {
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
   },
+  "deprecated_in_favor_of": "jaak-visage",
   "swift_version": "5.0"
 }
