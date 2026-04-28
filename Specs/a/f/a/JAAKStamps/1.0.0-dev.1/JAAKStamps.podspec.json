@@ -50,5 +50,6 @@
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386",
     "CLANG_ENABLE_MODULES": "YES"
   },
+  "deprecated_in_favor_of": "jaak-stamps",
   "swift_version": "5.5"
 }
